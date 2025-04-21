@@ -98,8 +98,10 @@ O projeto é dividido em duas partes principais:
 7. Aponte o controle para o sensor e divirta-se
 
 ## 📸 Imagens
-![Imagem do WhatsApp de 2025-04-20 à(s) 21 22 18_70909d49](https://github.com/user-attachments/assets/be195354-7fd1-4af4-95ac-949257648cd3)
+![image](https://github.com/user-attachments/assets/5334694d-e4fd-44b4-ab50-12fc9da07e44)
+![Imagem do WhatsApp de 2025-04-20 à(s) 22 01 48_5d81fdcb](https://github.com/user-attachments/assets/0b4852d0-d146-4ff6-b6ac-320506ed99e9)
 
 ## 👨‍💻 Autor
-**Desenvolvido** por Vitor
+**Desenvolvido** por Vitor,
 Desenvolvedor Back-end Python | Amante de automações, hardware e projetos criativos 🚀
+
