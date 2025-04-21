@@ -1,6 +1,6 @@
 # IR2PC
 
-[![GitHub license](https://img.shields.io/github/license/Vitorugz/IR2PC)](./LICENSE)
+[![GitHub license](https://img.shields.io/github/license/vitorugz/IR2PC)](./LICENSE)
 [![Made with Python](https://img.shields.io/badge/Made%20with-Python-blue?logo=python)](https://www.python.org/)
 [![Made with Arduino](https://img.shields.io/badge/Made%20with-Arduino-00979D?logo=arduino)](https://www.arduino.cc/)
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey)](https://github.com/seu-usuario-aqui/IR2PC)
